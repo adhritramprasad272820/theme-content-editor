@@ -1,0 +1,6 @@
+.tce-admin-wrap .tce-field { margin-bottom: 22px; }
+.tce-media-wrap { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.tce-preview { max-width: 120px; height: auto; border: 1px solid #ddd; padding: 2px; }
+.tce-repeater-row { border: 1px solid #ddd; padding: 12px; margin: 10px 0; background: #fff; }
+.tce-repeater-row p { margin: 0 0 8px; }
+.tce-repeater-row textarea { width: 100%; min-height: 80px; }
